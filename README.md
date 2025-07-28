@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **as a software engnieer**
 
 - 🌱 I’m currently learning **Micro Services**
-- 
+  
 🧑‍🤝‍🧑 I’m looking to collaborate on<br>Full-stack web applications with AI integration — especially projects that involve user analytics, recommendation engines, or real-time data visualization.<br><br>💬 Ask me about<br>Full-stack web development , building responsive UIs with Bootstrap, and adding AI-powered features to apps.<br><br>💬 Ask me about<br>Full-stack web development , building responsive UIs with Bootstrap, and adding AI-powered features to apps.<br><br>⚡ Fun fact<br>I turned my passion for design and coding into a dual skillset<br><br>
 
 
