@@ -91,6 +91,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Daniyal00001&icon=0&color=6" />
-</p>
+
