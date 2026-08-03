@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Daniyal+Tallat;Full+Stack+Developer+%7C+2%2B+Year+Production+Experience;Building+Scalable+%26+Production-Ready+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Daniyal+Tallat;Full+Stack+Developer+%7C+1%2B+Year+Production+Experience;Building+Scalable+%26+Production-Ready+Systems" alt="Typing SVG" />
 
 <br/>
 
- &nbsp;**Full Stack Developer** &nbsp; | **2+ Year Production Experience** &nbsp; | **Building Scalable Systems**
+🚀 &nbsp;**Full Stack Developer** &nbsp;·&nbsp; ⚡ **1+ Year Production Experience** &nbsp;·&nbsp; 🏗️ **Building Scalable Systems**
 
 <br/>
 
@@ -26,9 +26,9 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-<img align="left" alt="about me code snippet" width="440" src="./about-me-neon1.svg">
+<img align="left" alt="about me code snippet" width="420" src="./about-me-neon.svg">
 
 <br clear="both"/>
 <br/>
@@ -77,20 +77,7 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daniyal00001&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniyal00001&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyal00001&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="42%" />
-</p>
-
----
 
 ### ✍️ Dev Quote
 
