@@ -1,0 +1,33 @@
+<svg width="680" height="364" viewBox="0 0 680 364" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','Consolas',monospace">
+  <defs>
+    <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="20" y="20" width="640" height="324" rx="14" fill="#0a0a12" stroke="#39FF14" stroke-width="1.5" filter="url(#neonGlow)" opacity="0.9"/>
+  <rect x="20" y="20" width="640" height="324" rx="14" fill="#0a0a12" stroke="#39FF14" stroke-width="1.2"/>
+
+  <line x1="20" y1="64" x2="660" y2="64" stroke="#1f2a1f" stroke-width="1"/>
+  <circle cx="44" cy="42" r="6" fill="#FF5F56"/>
+  <circle cx="64" cy="42" r="6" fill="#FFBD2E"/>
+  <circle cx="84" cy="42" r="6" fill="#27C93F"/>
+  <text x="110" y="47" font-size="12" fill="#7a8a7a">about-me.js</text>
+
+  <text font-size="14" xml:space="preserve">
+    <tspan x="44" y="100"><tspan fill="#FF2AAD">const</tspan><tspan fill="#e6e6e6"> daniyal = </tspan><tspan fill="#39FF14">{</tspan></tspan>
+    <tspan x="44" dy="24"><tspan fill="#e6e6e6">  </tspan><tspan fill="#00FFFF">name</tspan><tspan fill="#e6e6e6">         : </tspan><tspan fill="#FFD400">"Muhammad Daniyal Tallat"</tspan><tspan fill="#e6e6e6">,</tspan></tspan>
+    <tspan x="44" dy="24"><tspan fill="#e6e6e6">  </tspan><tspan fill="#00FFFF">role</tspan><tspan fill="#e6e6e6">         : </tspan><tspan fill="#FFD400">"Full Stack Developer"</tspan><tspan fill="#e6e6e6">,</tspan></tspan>
+    <tspan x="44" dy="24"><tspan fill="#e6e6e6">  </tspan><tspan fill="#00FFFF">experience</tspan><tspan fill="#e6e6e6">   : </tspan><tspan fill="#FFD400">"1+ year · Production Systems"</tspan><tspan fill="#e6e6e6">,</tspan></tspan>
+    <tspan x="44" dy="24"><tspan fill="#e6e6e6">  </tspan><tspan fill="#00FFFF">focus</tspan><tspan fill="#e6e6e6">        : </tspan><tspan fill="#FFD400">"Scalable · Reliable · Clean Code"</tspan><tspan fill="#e6e6e6">,</tspan></tspan>
+    <tspan x="44" dy="24"><tspan fill="#e6e6e6">  </tspan><tspan fill="#00FFFF">hardWorker</tspan><tspan fill="#e6e6e6">   : </tspan><tspan fill="#B026FF">true</tspan><tspan fill="#e6e6e6">,</tspan></tspan>
+    <tspan x="44" dy="24"><tspan fill="#e6e6e6">  </tspan><tspan fill="#00FFFF">quickLearner</tspan><tspan fill="#e6e6e6"> : </tspan><tspan fill="#B026FF">true</tspan><tspan fill="#e6e6e6">,</tspan></tspan>
+    <tspan x="44" dy="24"><tspan fill="#e6e6e6">  </tspan><tspan fill="#00FFFF">problemSolver</tspan><tspan fill="#e6e6e6">: </tspan><tspan fill="#B026FF">true</tspan><tspan fill="#e6e6e6">,</tspan></tspan>
+    <tspan x="44" dy="24"><tspan fill="#e6e6e6">  </tspan><tspan fill="#00FFFF">available</tspan><tspan fill="#e6e6e6">    : </tspan><tspan fill="#B026FF">true</tspan><tspan fill="#e6e6e6">   </tspan><tspan fill="#5c6f5c">// open to opportunities 🚀</tspan></tspan>
+    <tspan x="44" dy="24"><tspan fill="#39FF14">};</tspan></tspan>
+  </text>
+</svg>
