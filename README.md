@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Daniyal+Tallat;Full+Stack+Developer+%7C+1%2B+Year+Production+Experience;Building+Scalable+%26+Production-Ready+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Daniyal+Tallat;Full+Stack+Developer+%7C+1%2B+Year+Production+Experience;Building+Scalable+%26+Production-Ready+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -26,10 +26,11 @@
 
 ## 🧑‍💻 About Me
 
-<div align="center">
-  <img src="./about-me-neon.svg" alt="about me code snippet" width="600"/>
-</div>
+<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
+<img align="left" alt="about me code snippet" width="540" src="./about-me-neon.svg">
+
+<br clear="both"/>
 <br/>
 
 - 🔭 &nbsp;Shipped **production-grade** full-stack applications
