@@ -4,7 +4,7 @@
 
 <br/>
 
-🚀 &nbsp;**Full Stack Developer** &nbsp;·&nbsp; ⚡ **2+ Year Production Experience** &nbsp;·&nbsp; 🏗️ **Building Scalable Systems**
+ &nbsp;**Full Stack Developer** &nbsp;·&nbsp; | **2+ Year Production Experience** &nbsp;·&nbsp; | **Building Scalable Systems**
 
 <br/>
 
