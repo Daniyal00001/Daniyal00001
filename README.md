@@ -28,7 +28,7 @@
 
 <img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-<img align="left" alt="about me code snippet" width="450" src="./about-me-neon1.svg">
+<img align="left" alt="about me code snippet" width="440" src="./about-me-neon1.svg">
 
 <br clear="both"/>
 <br/>
