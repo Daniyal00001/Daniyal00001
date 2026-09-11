@@ -165,23 +165,6 @@ A backend-driven leads management system designed for lead intake, tracking, ass
 
 ---
 
-## 🤖 AI & Developer Tools
-
-I'm continuously exploring new AI technologies and experimenting with **AI-powered and crazy developer tools** that can change how software is designed, developed, tested, and deployed.
-
-* 🤖 AI-Assisted Development
-* 🧠 AI Coding Tools
-* ⚡ AI Automation
-* 🔧 Developer Productivity Tools
-* 🧪 Experimental / Crazy Tools
-* 🔌 AI API Integrations
-* 🚀 Rapid Prototyping
-* 🛠️ Exploring Emerging Technologies
-
-I enjoy experimenting with tools that make development **faster, smarter, and more creative**.
-
----
-
 ## 🌱 Hobbies & Interests
 
 * **Continuous Learning:** Exploring backend architecture, DSA, system design, and new technologies
