@@ -13,7 +13,6 @@ I specialize in the **MERN and MEAN stacks**, using React, Next.js, Angular, Nod
 * **Current Role**: Software Engineer Intern @ Devsinc
 * **Primary Focus**: React.js, Next.js, Angular, Node.js, Express, Full Stack Architecture
 * **Specialties**: MERN/MEAN Stack Development, REST APIs, Database Design, Role-Based Systems
-* **Currently Learning**: Django & DRF, GraphQL, Cloud Infrastructure, AI-Powered Web Applications
 * **GitHub**: [Daniyal00001](https://github.com/Daniyal00001)
 * **Email**: [daniyaltallat0@gmail.com](mailto:daniyaltallat0@gmail.com)
 
