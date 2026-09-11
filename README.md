@@ -169,7 +169,6 @@ A backend-driven leads management system designed for lead intake, tracking, ass
 
 * **Continuous Learning:** Exploring backend architecture, DSA, system design, and new technologies
 * **AI Exploration:** Experimenting with AI tools, AI-assisted development, and emerging AI technologies
-* **Crazy Tools:** Exploring unusual, experimental, and powerful developer tools
 * **Tech Community:** Supporting production systems used by thousands of real users
 * **Problem Solving:** Enjoy tackling practical, real-world engineering problems
 
