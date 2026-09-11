@@ -95,12 +95,12 @@ I enjoy building real-world systems end-to-end — from **database design and ba
 # 🌟 GitHub Stats
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniyal00001&theme=dark&hide_border=false&cache_seconds=1800" height="170" alt="GitHub Streak Stats" />
+<img src="./profile/streak.svg" height="170" alt="GitHub Streak Stats" />
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Daniyal00001&show_icons=true&theme=dark&hide_border=false" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyal00001&layout=compact&theme=dark&hide_border=false" height="170" alt="Top Languages" />
+<img src="./profile/stats.svg" height="170" alt="GitHub Stats" />
+<img src="./profile/top-langs.svg" height="170" alt="Top Languages" />
 </p>
 
 ---
