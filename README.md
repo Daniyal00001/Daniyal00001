@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm **Muhammad Daniyal Tallat**, a **Full Stack De
 
 I specialize in the **MERN and MEAN stacks**, using React, Next.js, Angular, Node.js, Express, MongoDB, and MySQL. I enjoy building real-world systems end-to-end — from database design to deployment — and solving practical problems with clean, maintainable code.
 
-I hold a **BS (Hons) in Computer Science** from Government College University, Lahore, and continue exploring backend architecture, AI-powered applications, and scalable system design.
 
 ## About Me
 
