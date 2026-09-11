@@ -6,7 +6,7 @@
 
  **Full Stack Developer**   |   **2+ Year Production Experience**   |   **Building Scalable Systems**
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/daniyal-developer-/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -36,11 +36,7 @@ I enjoy building real-world systems end-to-end — from **database design and ba
 
 * **Education**: BS (Hons) in Computer Science, Government College University (GCU), Lahore
 * **Current Role**: Software Engineer Intern @ Devsinc
-* **Primary Focus**: React.js, Next.js, Angular, Node.js, Express, **Django, Django REST Framework (DRF)**, Full Stack Architecture
-* **Backend Development**: Node.js, Express, **Django, DRF, REST APIs, Authentication, Role-Based Systems**
-* **Frontend Development**: React.js, Next.js, Angular, JavaScript, TypeScript
-* **Databases**: MySQL, MongoDB, Redis
-* **Specialties**: MERN/MEAN Stack, **Django/DRF**, REST APIs, Database Design, Role-Based Systems, Scalable Architecture
+* **Specialties**: MERN/MEAN Stack, Django/Django REST Framework (DRF), REST APIs, MySQL, MongoDB, PostgreSQL, Redis, SQLite, Database Design,     Role-Based Systems, Scalable Architecture
 * **Exploring**: AI tools, AI-assisted development, automation, emerging technologies, and crazy developer tools
 * **GitHub**: [Daniyal00001](https://github.com/Daniyal00001)
 * **Email**: [daniyaltallat0@gmail.com](mailto:daniyaltallat0@gmail.com)
@@ -166,47 +162,6 @@ A backend-driven leads management system designed for lead intake, tracking, ass
 
 * **Technologies**: **Django, Django REST Framework (DRF), Python**
 * **Focus**: REST API Development, Django ORM, Models, Serializers, Views, Authentication, Database Management
-
----
-
-## 🧠 Backend & API Development
-
-I enjoy working on backend systems and designing APIs that are reliable, maintainable, and scalable.
-
-### Backend Technologies
-
-* **Django & Django REST Framework (DRF)**
-* **Node.js & Express.js**
-* **Python & FastAPI**
-* RESTful API Design
-* JWT Authentication
-* Role-Based Access Control
-* Database Modeling & Relationships
-* Django ORM
-* API Integration
-* Real-Time Systems
-* Payment Integrations
-* Backend Architecture
-
-### Django / DRF
-
-My Django/DRF experience includes working with:
-
-* Django Models
-* Django ORM
-* Model Managers
-* QuerySets
-* ForeignKey Relationships
-* One-to-One Relationships
-* Many-to-Many Relationships
-* Custom Through Models
-* Serializers
-* API Views
-* REST APIs
-* Authentication & Permissions
-* Database Relationships
-* CRUD Operations
-* API Testing with Postman
 
 ---
 
