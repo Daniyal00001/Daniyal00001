@@ -92,30 +92,16 @@ I enjoy building real-world systems end-to-end — from **database design and ba
 
 ---
 
-<div align="center">
+<h2 align="center">🌟 GitHub Stats</h2>
 
-# 🌟 GitHub Stats
-
-<table>
-  <tr>
-    <td valign="middle">
-      <img src="./profile/streak.svg" width="430" alt="GitHub Streak Stats" />
-    </td>
-    <td valign="middle">
-      <img alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle">
-      <img src="./profile/stats.svg" width="430" alt="GitHub Stats" />
-    </td>
-    <td valign="middle">
-      <img src="./profile/top-langs.svg" width="300" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="./profile/streak.svg" width="430" alt="GitHub Streak Stats" />
+  <img alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+</p>
+<p align="center">
+  <img src="./profile/stats.svg" width="430" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" width="300" alt="Top Languages" />
+</p>
 
 ---
 
