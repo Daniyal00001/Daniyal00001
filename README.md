@@ -1,6 +1,26 @@
-# Muhammad Daniyal Tallat
+<div align="center">
 
-## Full Stack Developer | React.js | Next.js | Angular | Node.js | MongoDB | MySQL
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Daniyal+Tallat;Full+Stack+Developer+%7C+2%2B+Year+Production+Experience;Building+Scalable+%26+Production-Ready+Systems" alt="Typing SVG" />
+
+<br/>
+
+ &nbsp;**Full Stack Developer** &nbsp; | **2+ Year Production Experience** &nbsp; | **Building Scalable Systems**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/daniyal-developer-/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:daniyaltallat0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Daniyal00001">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 Welcome to my GitHub profile! I'm **Muhammad Daniyal Tallat**, a **Full Stack Developer** with **2+ years of production experience** building scalable, high-performance, production-ready web applications.
 
