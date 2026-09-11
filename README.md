@@ -165,6 +165,20 @@ A backend-driven leads management system designed for lead intake, tracking, ass
 
 ---
 
+<div align="center">
+
+<h2>🐍 Contribution Snake</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daniyal00001/Daniyal00001/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daniyal00001/Daniyal00001/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Daniyal00001/Daniyal00001/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 🌱 Hobbies & Interests
 
 * **Continuous Learning:** Exploring backend architecture, DSA, system design, and new technologies
