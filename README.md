@@ -128,7 +128,7 @@ Platform for managing university society registrations, activities, and student 
 * **Technologies**: Node.js, Express, MySQL
 * **Focus**: Full Stack Development, Authentication, Role-Based Access
 
-### 4. [SkillBridge — AI-Powered Freelance Marketplace (FYP)](https://skillbridge.ddns.net/)
+### 4. [SkillBridge — AI-Powered Freelance Marketplace](https://skillbridge.ddns.net/)
 
 An AI-powered freelance platform connecting clients and freelancers through smart matching, eliminating manual proposal comparison. Features AI-assisted project scoping, negotiation, cover letter generation, role-based access, real-time chat, blind reviews, Stripe-based escrow payments, and a bidding/skill-token system.
 
