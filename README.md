@@ -32,17 +32,6 @@ I enjoy building real-world systems end-to-end — from **database design and ba
 
 ---
 
-## 👨‍💻 About Me
-
-* **Education**: BS (Hons) in Computer Science, Government College University (GCU), Lahore
-* **Current Role**: Software Engineer Intern @ Devsinc
-* **Specialties**: MERN/MEAN Stack, Django/Django REST Framework (DRF), REST APIs, MySQL, MongoDB, PostgreSQL, Redis, SQLite, Database Design,     Role-Based Systems, Scalable Architecture
-* **Exploring**: AI tools, AI-assisted development, automation, emerging technologies, and crazy developer tools
-* **GitHub**: [Daniyal00001](https://github.com/Daniyal00001)
-* **Email**: [daniyaltallat0@gmail.com](mailto:daniyaltallat0@gmail.com)
-
----
-
 <div align="center">
 
 ## 💻 Tech Stack ⚡
